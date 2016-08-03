@@ -1,0 +1,2 @@
+# linting
+NodeJS linting configurations
